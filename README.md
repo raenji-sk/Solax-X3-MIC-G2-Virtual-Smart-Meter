@@ -1,6 +1,8 @@
 # Solax-X3-MIC-G2-Virtual-Smart-Meter
 Smart meter emulator
 
+***Preliminary version of readme - need to add better description and screenshots, Node Red flow has some comments but might be hard to understand at first glance.***
+
 Using Node Red modbus server I was able to sumulate a smart meter wirking with Solax X3 MIC G2 inverter.
 It uses Shelly 3em and bunch of Home Assistant helpers to get the necessary data for the inverter.
 
